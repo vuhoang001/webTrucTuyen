@@ -1,0 +1,23 @@
+.image-logo {
+    background-color: #bb2019;
+}
+
+.image-logo .logo {
+    border-radius: 50%;
+    margin-right: 15px;
+    height: 25px; 
+    width: 25px; 
+    background-color: white;
+}
+
+.solid {
+    border: solid 1.6px #e1e4e8;
+}
+
+.text-align{
+    text-align: left
+}
+
+.dropdown-toggle::after {
+    border: none
+}
